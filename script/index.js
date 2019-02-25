@@ -6,16 +6,16 @@ function renderTitle(){
         h('div.menu', [
             h('ul', [
                 h('li', [
-                    h('a', ['Home'])
+                    h('a', ['Home2'])
                 ]),
                 h('li', [
-                    h('a', ['About'])
+                    h('a', ['About2'])
                 ]),
                 h('li', [
-                    h('a', ['Work'])
+                    h('a', ['Work2'])
                 ]),
                 h('li', [
-                    h('a', ['Contact'])
+                    h('a', ['Contact2'])
                 ]),
             ])
         ]),
